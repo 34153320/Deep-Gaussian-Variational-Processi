@@ -1,1 +1,1 @@
-# Deep-Gaussian-Variational-Processi
+# Deep-Variational-Gaussian-Process
